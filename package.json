@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zero-YT7"
+    "url": "git+https://github.com/Ainindar/V8.git"
   },
   "keywords": [
     "Wasu"
@@ -52,7 +52,7 @@
   "author": "Zero YT7",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zero-YT7/Base-ZeroYT7/issue"
+    "url": "https://github.com/Ainindar/V8.git"
   },
-  "homepage": "https://github.com/Zero-YT7/Zero-YT7"
+  "homepage": "https://github.com/Ainindar/V8.git"
 }
